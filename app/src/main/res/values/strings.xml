@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E02 Práctica Final</string>
+    <string name="pet_quantity_dot">Cantidad de mascotas:</string>
+    <string name="age_dot">Edad:</string>
+
+    <string name="create">Crear</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Teléfono</string>
+    <string name="clean">Limpiar</string>
+    <string name="add_pet">Añadir mascota</string>
+    <string name="edit_pet">Editar mascota</string>
+    <string name="this_field_is_required">Se requiere este campo</string>
+
+    <string name="updated">Actualizado</string>
+    <string name="deleted">Eliminado</string>
+    <string name="created">Creado</string>
+
+    <string name="created_pet">Mascota creada</string>
+    <string name="updated_pet">Mascota actualizada</string>
+    <string name="deleted_pet">Mascota eliminada</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="pet_name">Nombre de tu mascota</string>
+    <string name="add_photo">Agregar foto</string>
+    <string name="update_photo">Actualizar foto</string>
+    <string name="delete_photo">Eliminar foto</string>
+    <string name="age">Edad</string>
+    <string name="ok">Ok</string>
+    <string name="on_added_person_message">Persona creada satisfactoriamente. Pulsa + para agregar mascotas.</string>
+    <string name="your_pets">Tus mascotas</string>
+    <string name="select_photo">Seleccionar foto</string>
+
+</resources>
